@@ -10,7 +10,7 @@ import java.nio.channels.FileChannel;
 /**
  * @Author Rrow
  * @Date 2023/11/12 18:50
- * Description: 直接缓冲区  allocateDirect
+ * Description: 直接缓冲区  allocateDirecte
  */
 public class DirectBuffer {
     public static void main(String[] args) throws IOException {
